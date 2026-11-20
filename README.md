@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/hardik1816/Leetcode-solution/tree/master/0200-number-of-islands) |
 | [0393-utf-8-validation](https://github.com/hardik1816/Leetcode-solution/tree/master/0393-utf-8-validation) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/hardik1816/Leetcode-solution/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/hardik1816/Leetcode-solution/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
@@ -38,10 +39,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/hardik1816/Leetcode-solution/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/hardik1816/Leetcode-solution/tree/master/0200-number-of-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/hardik1816/Leetcode-solution/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/hardik1816/Leetcode-solution/tree/master/0200-number-of-islands) |
 ## Graph Theory
 |  |
 | ------- |
@@ -58,4 +61,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0393-utf-8-validation](https://github.com/hardik1816/Leetcode-solution/tree/master/0393-utf-8-validation) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/hardik1816/Leetcode-solution/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/hardik1816/Leetcode-solution/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
