@@ -14,4 +14,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/hardik1816/Leetcode-solution/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+## Array
+|  |
+| ------- |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/hardik1816/Leetcode-solution/tree/master/2567-minimum-score-by-changing-two-elements) |
+## Greedy
+|  |
+| ------- |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/hardik1816/Leetcode-solution/tree/master/2567-minimum-score-by-changing-two-elements) |
+## Sorting
+|  |
+| ------- |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/hardik1816/Leetcode-solution/tree/master/2567-minimum-score-by-changing-two-elements) |
 <!---LeetCode Topics End-->
