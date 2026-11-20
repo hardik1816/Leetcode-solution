@@ -45,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/hardik1816/Leetcode-solution/tree/master/0133-clone-graph) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/hardik1816/Leetcode-solution/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
