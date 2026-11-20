@@ -5,20 +5,20 @@ public:
         int m = grid.size();
         int n = grid[0].size();
 
-        // Check boundaries and water
+
         if (row < 0 || col < 0 || row >= m || col >= n ||
             grid[row][col] == '0') {
             return;
         }
 
-        // Mark current land as visited
+d
         grid[row][col] = '0';
 
-        // Explore all four directions
-        dfs(grid, row + 1, col); // Down
-        dfs(grid, row - 1, col); // Up
-        dfs(grid, row, col + 1); // Right
-        dfs(grid, row, col - 1); // Left
+
+        dfs(grid, row + 1, col);
+        dfs(grid, row - 1, col); 
+        dfs(grid, row, col + 1);
+        dfs(grid, row, col - 1); 
     }
 
     int numIslands(vector<vector<char>>& grid) {
