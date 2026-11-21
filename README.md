@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/hardik1816/Leetcode-solution/tree/master/0133-clone-graph) |
+| [0146-lru-cache](https://github.com/hardik1816/Leetcode-solution/tree/master/0146-lru-cache) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -80,4 +81,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/hardik1816/Leetcode-solution/tree/master/0035-search-insert-position) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/hardik1816/Leetcode-solution/tree/master/0146-lru-cache) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/hardik1816/Leetcode-solution/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/hardik1816/Leetcode-solution/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
