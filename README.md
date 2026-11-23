@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/hardik1816/Leetcode-solution/tree/master/0010-regular-expression-matching) |
 | [0020-valid-parentheses](https://github.com/hardik1816/Leetcode-solution/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/hardik1816/Leetcode-solution/tree/master/0022-generate-parentheses) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/hardik1816/Leetcode-solution/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/hardik1816/Leetcode-solution/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/hardik1816/Leetcode-solution/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/hardik1816/Leetcode-solution/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/hardik1816/Leetcode-solution/tree/master/0020-valid-parentheses) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/hardik1816/Leetcode-solution/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/hardik1816/Leetcode-solution/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Monotonic Stack
 |  |
