@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/hardik1816/Leetcode-solution/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/hardik1816/Leetcode-solution/tree/master/0200-number-of-islands) |
 | [0393-utf-8-validation](https://github.com/hardik1816/Leetcode-solution/tree/master/0393-utf-8-validation) |
+| [0560-subarray-sum-equals-k](https://github.com/hardik1816/Leetcode-solution/tree/master/0560-subarray-sum-equals-k) |
 | [0994-rotting-oranges](https://github.com/hardik1816/Leetcode-solution/tree/master/0994-rotting-oranges) |
 | [1352-product-of-the-last-k-numbers](https://github.com/hardik1816/Leetcode-solution/tree/master/1352-product-of-the-last-k-numbers) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/hardik1816/Leetcode-solution/tree/master/1944-number-of-visible-people-in-a-queue) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/hardik1816/Leetcode-solution/tree/master/0133-clone-graph) |
 | [0146-lru-cache](https://github.com/hardik1816/Leetcode-solution/tree/master/0146-lru-cache) |
+| [0560-subarray-sum-equals-k](https://github.com/hardik1816/Leetcode-solution/tree/master/0560-subarray-sum-equals-k) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/hardik1816/Leetcode-solution/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Depth-First Search
 |  |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/hardik1816/Leetcode-solution/tree/master/0560-subarray-sum-equals-k) |
 | [1352-product-of-the-last-k-numbers](https://github.com/hardik1816/Leetcode-solution/tree/master/1352-product-of-the-last-k-numbers) |
 ## Quicksort
 |  |
