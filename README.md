@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0393-utf-8-validation](https://github.com/hardik1816/Leetcode-solution/tree/master/0393-utf-8-validation) |
 | [0994-rotting-oranges](https://github.com/hardik1816/Leetcode-solution/tree/master/0994-rotting-oranges) |
 | [1352-product-of-the-last-k-numbers](https://github.com/hardik1816/Leetcode-solution/tree/master/1352-product-of-the-last-k-numbers) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/hardik1816/Leetcode-solution/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/hardik1816/Leetcode-solution/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/hardik1816/Leetcode-solution/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/hardik1816/Leetcode-solution/tree/master/3331-find-subtree-sizes-after-changes) |
@@ -150,4 +151,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/hardik1816/Leetcode-solution/tree/master/0207-course-schedule) |
+## Stack
+|  |
+| ------- |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/hardik1816/Leetcode-solution/tree/master/1944-number-of-visible-people-in-a-queue) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/hardik1816/Leetcode-solution/tree/master/1944-number-of-visible-people-in-a-queue) |
 <!---LeetCode Topics End-->
