@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/hardik1816/Leetcode-solution/tree/master/0010-regular-expression-matching) |
+| [0020-valid-parentheses](https://github.com/hardik1816/Leetcode-solution/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/hardik1816/Leetcode-solution/tree/master/0022-generate-parentheses) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/hardik1816/Leetcode-solution/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/hardik1816/Leetcode-solution/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/hardik1816/Leetcode-solution/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/hardik1816/Leetcode-solution/tree/master/0022-generate-parentheses) |
 ## Topological Sort
 |  |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/hardik1816/Leetcode-solution/tree/master/0020-valid-parentheses) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/hardik1816/Leetcode-solution/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Monotonic Stack
 |  |
