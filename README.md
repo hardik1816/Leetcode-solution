@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/hardik1816/Leetcode-solution/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/hardik1816/Leetcode-solution/tree/master/0022-generate-parentheses) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/hardik1816/Leetcode-solution/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/hardik1816/Leetcode-solution/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/hardik1816/Leetcode-solution/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/hardik1816/Leetcode-solution/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/hardik1816/Leetcode-solution/tree/master/0022-generate-parentheses) |
 | [0198-house-robber](https://github.com/hardik1816/Leetcode-solution/tree/master/0198-house-robber) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/hardik1816/Leetcode-solution/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/hardik1816/Leetcode-solution/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
@@ -127,4 +129,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/hardik1816/Leetcode-solution/tree/master/0056-merge-intervals) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/hardik1816/Leetcode-solution/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/hardik1816/Leetcode-solution/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
