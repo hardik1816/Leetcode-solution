@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/hardik1816/Leetcode-solution/tree/master/0035-search-insert-position) |
+| [0056-merge-intervals](https://github.com/hardik1816/Leetcode-solution/tree/master/0056-merge-intervals) |
 | [0200-number-of-islands](https://github.com/hardik1816/Leetcode-solution/tree/master/0200-number-of-islands) |
 | [0393-utf-8-validation](https://github.com/hardik1816/Leetcode-solution/tree/master/0393-utf-8-validation) |
 | [1352-product-of-the-last-k-numbers](https://github.com/hardik1816/Leetcode-solution/tree/master/1352-product-of-the-last-k-numbers) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/hardik1816/Leetcode-solution/tree/master/0056-merge-intervals) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/hardik1816/Leetcode-solution/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/hardik1816/Leetcode-solution/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 ## Hash Table
@@ -116,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/hardik1816/Leetcode-solution/tree/master/1352-product-of-the-last-k-numbers) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/hardik1816/Leetcode-solution/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
