@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/hardik1816/Leetcode-solution/tree/master/0022-generate-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hardik1816/Leetcode-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/hardik1816/Leetcode-solution/tree/master/0198-house-robber) |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/hardik1816/Leetcode-solution/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/hardik1816/Leetcode-solution/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/hardik1816/Leetcode-solution/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 ## Array
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/hardik1816/Leetcode-solution/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/hardik1816/Leetcode-solution/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 ## Sorting
 |  |
 | ------- |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0393-utf-8-validation](https://github.com/hardik1816/Leetcode-solution/tree/master/0393-utf-8-validation) |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/hardik1816/Leetcode-solution/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 ## Union-Find
 |  |
 | ------- |
