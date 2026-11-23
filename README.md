@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/hardik1816/Leetcode-solution/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/hardik1816/Leetcode-solution/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/hardik1816/Leetcode-solution/tree/master/0207-course-schedule) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/hardik1816/Leetcode-solution/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/hardik1816/Leetcode-solution/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Breadth-First Search
 |  |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/hardik1816/Leetcode-solution/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/hardik1816/Leetcode-solution/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Math
 |  |
@@ -187,4 +189,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/hardik1816/Leetcode-solution/tree/master/0023-merge-k-sorted-lists) |
+## Binary Tree
+|  |
+| ------- |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/hardik1816/Leetcode-solution/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 <!---LeetCode Topics End-->
