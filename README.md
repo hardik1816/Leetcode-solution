@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0393-utf-8-validation](https://github.com/hardik1816/Leetcode-solution/tree/master/0393-utf-8-validation) |
 | [0560-subarray-sum-equals-k](https://github.com/hardik1816/Leetcode-solution/tree/master/0560-subarray-sum-equals-k) |
 | [0994-rotting-oranges](https://github.com/hardik1816/Leetcode-solution/tree/master/0994-rotting-oranges) |
+| [1004-max-consecutive-ones-iii](https://github.com/hardik1816/Leetcode-solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1352-product-of-the-last-k-numbers](https://github.com/hardik1816/Leetcode-solution/tree/master/1352-product-of-the-last-k-numbers) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/hardik1816/Leetcode-solution/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/hardik1816/Leetcode-solution/tree/master/2567-minimum-score-by-changing-two-elements) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/hardik1816/Leetcode-solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/hardik1816/Leetcode-solution/tree/master/0035-search-insert-position) |
+| [1004-max-consecutive-ones-iii](https://github.com/hardik1816/Leetcode-solution/tree/master/1004-max-consecutive-ones-iii) |
 ## Linked List
 |  |
 | ------- |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/hardik1816/Leetcode-solution/tree/master/0560-subarray-sum-equals-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/hardik1816/Leetcode-solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1352-product-of-the-last-k-numbers](https://github.com/hardik1816/Leetcode-solution/tree/master/1352-product-of-the-last-k-numbers) |
 ## Quicksort
 |  |
@@ -207,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/hardik1816/Leetcode-solution/tree/master/1004-max-consecutive-ones-iii) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/hardik1816/Leetcode-solution/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Enumeration
 |  |
