@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hardik1816/Leetcode-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/hardik1816/Leetcode-solution/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/hardik1816/Leetcode-solution/tree/master/0200-number-of-islands) |
+| [0239-sliding-window-maximum](https://github.com/hardik1816/Leetcode-solution/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/hardik1816/Leetcode-solution/tree/master/0347-top-k-frequent-elements) |
 | [0393-utf-8-validation](https://github.com/hardik1816/Leetcode-solution/tree/master/0393-utf-8-validation) |
 | [0560-subarray-sum-equals-k](https://github.com/hardik1816/Leetcode-solution/tree/master/0560-subarray-sum-equals-k) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/hardik1816/Leetcode-solution/tree/master/0023-merge-k-sorted-lists) |
+| [0239-sliding-window-maximum](https://github.com/hardik1816/Leetcode-solution/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/hardik1816/Leetcode-solution/tree/master/0347-top-k-frequent-elements) |
 ## Merge Sort
 |  |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/hardik1816/Leetcode-solution/tree/master/0239-sliding-window-maximum) |
 | [1004-max-consecutive-ones-iii](https://github.com/hardik1816/Leetcode-solution/tree/master/1004-max-consecutive-ones-iii) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/hardik1816/Leetcode-solution/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Enumeration
@@ -242,4 +245,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/hardik1816/Leetcode-solution/tree/master/0347-top-k-frequent-elements) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/hardik1816/Leetcode-solution/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/hardik1816/Leetcode-solution/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/hardik1816/Leetcode-solution/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
