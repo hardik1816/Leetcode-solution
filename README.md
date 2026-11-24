@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/hardik1816/Leetcode-solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/hardik1816/Leetcode-solution/tree/master/0035-search-insert-position) |
 | [0056-merge-intervals](https://github.com/hardik1816/Leetcode-solution/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hardik1816/Leetcode-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/hardik1816/Leetcode-solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/hardik1816/Leetcode-solution/tree/master/0035-search-insert-position) |
 ## Linked List
 |  |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/hardik1816/Leetcode-solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/hardik1816/Leetcode-solution/tree/master/0023-merge-k-sorted-lists) |
 ## Heap (Priority Queue)
 |  |
