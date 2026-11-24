@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hardik1816/Leetcode-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/hardik1816/Leetcode-solution/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/hardik1816/Leetcode-solution/tree/master/0200-number-of-islands) |
+| [0347-top-k-frequent-elements](https://github.com/hardik1816/Leetcode-solution/tree/master/0347-top-k-frequent-elements) |
 | [0393-utf-8-validation](https://github.com/hardik1816/Leetcode-solution/tree/master/0393-utf-8-validation) |
 | [0560-subarray-sum-equals-k](https://github.com/hardik1816/Leetcode-solution/tree/master/0560-subarray-sum-equals-k) |
 | [0994-rotting-oranges](https://github.com/hardik1816/Leetcode-solution/tree/master/0994-rotting-oranges) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/hardik1816/Leetcode-solution/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/hardik1816/Leetcode-solution/tree/master/0056-merge-intervals) |
+| [0347-top-k-frequent-elements](https://github.com/hardik1816/Leetcode-solution/tree/master/0347-top-k-frequent-elements) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/hardik1816/Leetcode-solution/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/hardik1816/Leetcode-solution/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 ## Hash Table
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/hardik1816/Leetcode-solution/tree/master/0049-group-anagrams) |
 | [0133-clone-graph](https://github.com/hardik1816/Leetcode-solution/tree/master/0133-clone-graph) |
 | [0146-lru-cache](https://github.com/hardik1816/Leetcode-solution/tree/master/0146-lru-cache) |
+| [0347-top-k-frequent-elements](https://github.com/hardik1816/Leetcode-solution/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/hardik1816/Leetcode-solution/tree/master/0560-subarray-sum-equals-k) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/hardik1816/Leetcode-solution/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Depth-First Search
@@ -196,10 +199,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/hardik1816/Leetcode-solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/hardik1816/Leetcode-solution/tree/master/0023-merge-k-sorted-lists) |
+| [0347-top-k-frequent-elements](https://github.com/hardik1816/Leetcode-solution/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/hardik1816/Leetcode-solution/tree/master/0023-merge-k-sorted-lists) |
+| [0347-top-k-frequent-elements](https://github.com/hardik1816/Leetcode-solution/tree/master/0347-top-k-frequent-elements) |
 ## Merge Sort
 |  |
 | ------- |
@@ -225,4 +230,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/hardik1816/Leetcode-solution/tree/master/3411-maximum-subarray-with-equal-products) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/hardik1816/Leetcode-solution/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/hardik1816/Leetcode-solution/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/hardik1816/Leetcode-solution/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
