@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/hardik1816/Leetcode-solution/tree/master/0010-regular-expression-matching) |
 | [0020-valid-parentheses](https://github.com/hardik1816/Leetcode-solution/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/hardik1816/Leetcode-solution/tree/master/0022-generate-parentheses) |
+| [0049-group-anagrams](https://github.com/hardik1816/Leetcode-solution/tree/master/0049-group-anagrams) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/hardik1816/Leetcode-solution/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/hardik1816/Leetcode-solution/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/hardik1816/Leetcode-solution/tree/master/2124-check-if-all-as-appears-before-all-bs) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/hardik1816/Leetcode-solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/hardik1816/Leetcode-solution/tree/master/0035-search-insert-position) |
+| [0049-group-anagrams](https://github.com/hardik1816/Leetcode-solution/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/hardik1816/Leetcode-solution/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hardik1816/Leetcode-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/hardik1816/Leetcode-solution/tree/master/0198-house-robber) |
@@ -53,12 +55,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/hardik1816/Leetcode-solution/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/hardik1816/Leetcode-solution/tree/master/0056-merge-intervals) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/hardik1816/Leetcode-solution/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/hardik1816/Leetcode-solution/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/hardik1816/Leetcode-solution/tree/master/0049-group-anagrams) |
 | [0133-clone-graph](https://github.com/hardik1816/Leetcode-solution/tree/master/0133-clone-graph) |
 | [0146-lru-cache](https://github.com/hardik1816/Leetcode-solution/tree/master/0146-lru-cache) |
 | [0560-subarray-sum-equals-k](https://github.com/hardik1816/Leetcode-solution/tree/master/0560-subarray-sum-equals-k) |
